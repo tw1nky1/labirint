@@ -2,7 +2,7 @@ from typing import Any
 from pygame import *
 from random import randint
 init()
-
+ коментар 
 
 mixer.music.load("11111.ogg")
 mixer_music.play()
